@@ -1,0 +1,61 @@
+h1{
+  font-family:Georgia;
+  color: blue;
+  text-align: center;
+}
+
+body{
+  background-color: #eaf7cf;
+
+}
+
+#perfil{
+  color: blueviolet;
+  position: relative;
+  top: 0px;
+  margin-left: 40%;
+}
+p{
+  margin-left: 139px;
+  margin-right: 139px;
+  text-indent: 0vmax;
+}
+
+#perfil{
+  display: block;
+}
+
+/* Dividirem colunas */
+#habilidades {
+  width: 27%;
+  float: left;
+  margin-left: 5%;
+ 
+  }
+#habilidades2 {
+  width: 31%;
+  float: right;
+  margin-left: 9%;
+}
+  
+footer{
+  text-align: center;
+  margin-top: 167px;
+  background-color: lightcyan;
+}
+#links{
+  text-align: center;
+  margin-top: 277px;
+}
+#perfil-texto{
+  position: relative;
+  top: -18px;
+  text-align: center;
+}
+#table-links{
+  font-size: 22;
+  position: relative;
+  top: 0px;
+  margin-left: 42%;
+  background-color: lightgreen;
+}
