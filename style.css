@@ -11,7 +11,7 @@ body{
 p{
   padding: 5px 50px;
   text-align: justify;
-  text-justify: inter-word;
+  
 }
 a{
   color: #fff;
@@ -20,23 +20,24 @@ a{
 }
 li.btn{
   color: #fff;
-  margin-top: 20%;
+  margin-top: 5px;
 }
 li#perfil{
   color: #fff;
-  margin-left: 67%;
+  margin-left: 65%;
   margin-top: 9%;
   
 }
 li#blog{
   color: #fff;
-  margin-left: 70%;
+  margin-left: 94%;
   margin-top: 9%;
   
 }
 .circle-image{
   border-radius: 100%;
-  width: 300px;
+  border: 15px solid #04aa6d;
+  width: 277px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -74,6 +75,7 @@ text-align: center;
   position: relative;
   top: -18px;
   text-align: center;
+  font-size: 25px;
 }
 
 .btn{
@@ -99,6 +101,13 @@ text-align: center;
   height: 150px;
     
 }
+.coluna {
+  float: left;
+  width: 33.33%;
+  padding: 17px;
+  height: 132px;
+    
+}
 
 
 .row:after {
@@ -109,10 +118,10 @@ text-align: center;
   
 }
 .principais{
-  margin-left: 8%;
+  margin-left: 17%;
 }
 .secundarias{
-  margin-left: 4%;
+  margin-left: 14%;
 }
 #perfil{
   background-color: #04aa6d;
